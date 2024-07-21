@@ -2,6 +2,12 @@ Challenges
 
 format string 1 -
 
-Read the memory localtion of the secret, read the register vaule using %x and %13$llx,%14$llx,%15$llx,%16$llx,%17$llx,%18$llx
-The value in this location Hex value and reverse bix endian.
+Read the memory location of the secret, read the register value using %x and %13$llx,%14$llx,%15$llx,%16$llx,%17$llx,%18$llx
+The value in this location is Hex value and reverse bix endian.
 picoCTF{4n1m41_57y13_4x4_f14g_64277116}
+
+*********
+format String 0
+
+Just try different options:
+picoCTF{7h3_cu570m3r_15_n3v3r_SEGFAULT_a1d85b3e}
